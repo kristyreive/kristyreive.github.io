@@ -2,10 +2,16 @@ body {
     background-color: #D9D8D7;
 }
 
-h1, p {
+p {
     color: #8C7961;
 }
+
+h1 { 
+color: #F2A7A7;
+ }
+
+
 body {
     text-align: center;
-   font-family: helvetica;
+   font-family: arial;
 }
