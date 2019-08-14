@@ -1,8 +1,7 @@
-<style>
 body {
-  text-align: center;
-  background: url("https://170508-edm-denim.s3-ap-southeast-2.amazonaws.com/full-width-banner-85-nz.jpg");
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+    background-color: pink;
+}
+
+h1, p {
+    color: orange;
 }
