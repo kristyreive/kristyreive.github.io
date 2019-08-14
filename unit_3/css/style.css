@@ -1,7 +1,13 @@
 body {
-    background-color: pink;
+  text-align: center;
+  background: url("http://i.imgur.com/q0FaaAk.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
-
-h1, p {
-    color: orange;
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
 }
