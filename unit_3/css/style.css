@@ -1,13 +1,7 @@
 body {
-  text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+    background-color: #D9D8D7;
 }
-hr {
-  width: 200px;
-}
-p {
-  font-size: 22px;
+
+h1, p {
+    color: #8C7961;
 }
