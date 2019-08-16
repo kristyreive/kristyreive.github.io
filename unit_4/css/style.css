@@ -3,15 +3,15 @@
 body {
     background-color: #D9D8D7;
     text-align: center;
-    
 }
 
 p {
+    font-family:sans-serif;
     color: #8C7961;
 }
 
 h1 { 
-	font-family: 'Annie Use Your Telescope'
+	font-family: 'Annie Use Your Telescope';
     color: #000000;
  }
 
