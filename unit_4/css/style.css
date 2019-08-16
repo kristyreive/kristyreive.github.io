@@ -1,17 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap');
 
 body {
     background-color: #D9D8D7;
     text-align: center;
+    font-family: 'Reenie Beanie';
 }
 
 p {
-    font-family:sans-serif;
     color: #8C7961;
 }
 
 h1 { 
-	font-family: 'Annie Use Your Telescope';
     color: #000000;
  }
 
