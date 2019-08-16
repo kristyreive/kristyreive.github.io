@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope&display=swap');
 
 body {
     background-color: #D9D8D7;
     text-align: center;
-    font-family: 'Abril Fatface'
+    
 }
 
 p {
@@ -11,7 +11,8 @@ p {
 }
 
 h1 { 
-color: #F2A7A7;
+	font-family: 'Annie Use Your Telescope'
+    color: #000000;
  }
 
 
