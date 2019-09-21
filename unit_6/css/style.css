@@ -3,11 +3,10 @@
 body {
 	font-size: 18px;
 	text-align: center;
-	font-family: 'Reenie Beanie';
 }
 
 h1,h2 {
-	text-transform: uppercase;
+	font-family: 'Reenie Beanie';
 	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 800;
