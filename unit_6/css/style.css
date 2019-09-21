@@ -7,7 +7,6 @@ body {
 
 h1,h2 {
 	font-family: 'Reenie Beanie';
-	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 800;
 } 
@@ -20,7 +19,6 @@ h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
     color: #fffebb;
-    border-bottom-color: #fffebb;
 }
 
 img {
@@ -28,6 +26,13 @@ img {
 	margin: 0 auto;
     width: 480px;
 } 
+
+img {
+	display: block;
+	margin: 0 auto;
+    width: 480px;
+} 
+
 
 ul {
 	list-style: none;
@@ -59,7 +64,7 @@ nav a {
 }
 
 section {
-  background: #222;
+  background: ##fecfcc;
   color: #fff;
   overflow: auto;
 }
