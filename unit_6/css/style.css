@@ -77,13 +77,10 @@ div {
 	background: #8C8630;
 } 
 
-#about{
+#nav {
   float: left;
 }
 
-#services{
-  float: right;
-}
 
 footer {
 	text-align: center;
