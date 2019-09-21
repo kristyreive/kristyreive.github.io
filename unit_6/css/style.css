@@ -29,6 +29,13 @@ img {
     border-radius: 2px;
 } 
 
+img {
+	display: inline-block;
+	max-width: 100%;
+    height: auto;
+    margin: 30px auto 30px auto;
+    border-radius: 2px;
+} 
 
 
 ul {
