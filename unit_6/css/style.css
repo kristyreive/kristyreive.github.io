@@ -29,14 +29,6 @@ img {
     border-radius: 2px;
 } 
 
-img {
-	display: inline-block;
-	max-width: 100%;
-    height: auto;
-    margin: 30px auto 30px auto;
-    border-radius: 2px;
-} 
-
 
 ul {
 	list-style: none;
@@ -48,10 +40,10 @@ li {
   float: left;
   width: 50%;
   height: 6em;
-  outline: 3px solid #222;
+  outline: 1px solid #222;
   text-align: center;
   line-height: 6em;
-  color: #000;
+  color: ##FFF;
   background: #8C8630;
 }
 
