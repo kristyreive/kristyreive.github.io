@@ -22,13 +22,13 @@ h2 {
 }
 
 img {
-	display: block;
+	display: inline-block;
 	margin: 0 auto;
     width: 480px;
 } 
 
 img {
-	display: block;
+	display: inline-block;
 	margin: 0 auto;
     width: 480px;
 } 
@@ -64,8 +64,8 @@ nav a {
 }
 
 section {
-  background: ##fecfcc;
-  color: #fff;
+  background: # #000000;
+  color: #fecfcc;
   overflow: auto;
 }
 
