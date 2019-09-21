@@ -18,7 +18,7 @@ h1 {
 h2 {
 	font-size: 1.5em;
 	padding: .8em 0;
-    color: #fffebb;
+    color: ##8C8630;
 }
 
 img {
@@ -52,7 +52,7 @@ li {
   text-align: center;
   line-height: 6em;
   color: #000;
-  background: #fff;
+  background: #8C8630;
 }
 
 nav {
@@ -68,7 +68,7 @@ nav a {
 }
 
 section {
-  background: # #000000;
+  background: #000000;
   color: #fecfcc;
   overflow: auto;
 }
@@ -88,10 +88,10 @@ div {
 }
 
 #hero {
-	display: block;
+	display: inline-block;
 	width: 100%;
 	margin: 0;
-	background: #fffebb;
+	background: #8C8630;
 } 
 
 #about{
