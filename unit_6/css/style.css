@@ -5,77 +5,25 @@ body {
 	text-align: center;
 }
 
-h1,h2 {
+h1{
 	font-family: 'Reenie Beanie';
 	display: inline-block;
 	font-weight: 800;
 } 
 
-h1 {
-	font-size: 2em;
-}
-
-h2 {
-	font-size: 1.5em;
-	padding: .8em 0;
-    color: ##8C8630;
-}
-
 img {
 	display: inline-block;
 	max-width: 100%;
+	position: center
     height: auto;
     margin: 30px auto 30px auto;
     border-radius: 2px;
 } 
 
-ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-li {
-  float: left;
-  width: 50%;
-  height: 6em;
-  outline: 1px solid #222;
-  text-align: center;
-  line-height: 6em;
-  color: ##FFF;
-  background: #8C8630;
-}
-
 nav {
      text-decoration: none;
     }
 
-section {
-  background: #000000;
-  color: #fecfcc;
-  overflow: auto;
-}
-
-div{
-  font-size:1.2em;
-  width: 46%;
-  padding: 2%
-  display:inline-block;
-}
-
-div {
-	font-size: 1.2em;
-	width: 46%;
-	padding: 2%;
-	display: inline-block;
-}
-
-#hero {
-	display: inline-block;
-	width: 100%;
-	margin: 0;
-	background: #8C8630;
-} 
 
 #nav {
   float: left;
