@@ -25,19 +25,19 @@ img {
 } 
 
 #two_column {
-    background-color: #FFB7CF;
+    background-color: ##ffd1dc;
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: ##ff6f91;
     border: 1px black solid;
     padding: 20px;
 }
 
 #right {
-    background-color: #E55B88;
+    background-color: ##ff6f91;
     border: 1px black solid;
     padding: 20px;
 }
@@ -46,7 +46,7 @@ img {
     visibility: hidden;
     display: block;
     font-size: 0;
-    content: " ";
+    content: "#right, #left";
     clear: both;
     height: 0;
 }
