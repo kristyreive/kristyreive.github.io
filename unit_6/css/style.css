@@ -5,6 +5,13 @@ body {
 	text-align: center;
 }
 
+nav {
+     display: block;
+     font-family: 'Reenie Beanie';
+     text-decoration: none;
+     float: left;
+    }
+
 h1{
 	font-family: 'Reenie Beanie';
 	display: inline-block;
@@ -20,12 +27,25 @@ img {
     border-radius: 2px;
 } 
 
-nav {
-     display: block;
-     font-family: 'Reenie Beanie';
-     text-decoration: none;
-     float: left;
-    }
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
 
 footer {
 	text-align: center;
