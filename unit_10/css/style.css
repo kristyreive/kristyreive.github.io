@@ -1,0 +1,115 @@
+<link rel="stylesheet" type="text/css" href="addcontact.css"/>
+
+<style type="text/css">
+/* Change your page's background color or background image here */
+body {
+background: #f3f3f3;
+padding: 25px;
+font: normal 12px/1.5em "Lucida Grande", "Verdana", sans-serif;
+color: #000; }
+
+/* The form element is the main container for the entire page and is centered on the page by default. This width is dynamically calculated based on the maximum width of the rows within it. */
+form {
+width: 780px;
+padding: 10px;
+background: #fff;
+border: 1px solid #ccc;
+margin: 0 auto; }
+
+/* This is the style for each individual row. */
+form .section {
+clear: both; }
+
+/* This is the style for each column within a row. */
+form .section .container {
+float: left; }
+
+/* This surrounds every field and caption area. */
+.field_block {
+display: block;
+padding: 0;
+margin: 0 0 6px 0; }
+
+/* A field's caption normally surrounds its label element. */
+.field_block .caption {
+display: block;
+font: bold 12px "Lucida Grande", "Verdana", sans-serif;
+color: #333;
+padding: 0;
+margin: 0 0 4px 0; }
+
+/* The following are special styles for the layout of checkbox and radio fields */
+.field_block .checkbox .caption {
+display: inline;
+margin: 0; }
+
+.field_block div.radio span {
+display: block;
+margin: 0 0 3px 0;
+padding: 0; }
+
+.field_block div.radio span input.radio {
+display: inline;
+padding-right: 5px; }
+
+.field_block div.radio span label {
+font: normal 11px "Lucida Grande", "Verdana", sans-serif;
+color: #333; }
+
+/* This is the individual field input. */
+.field_block .field {
+padding: 0;
+margin: 0; }
+
+/* The style for field-level errors */
+.field_block .field .field_error {
+display: block;
+padding-top: 3px;
+padding-bottom: 5px;
+font-size: 11px;
+color: #f00;
+font-weight: bold; }
+
+/* The styles for individual field types */
+.field_block .field input.text, .field_block .field input.float,
+.field_block .field input.password, .field_block .field input.integer,
+.field_block .field input.currency, .field_block .field input.date {
+border: 1px solid #ccc;
+border-top-color: #444;
+border-left-color: #444;
+font: normal 11px "Lucida Grande", "Verdana", sans-serif;
+color: #333;
+padding: 3px;
+margin: 0;
+width: 190px; }
+
+.field_block .field input.date {
+width: 102px; }
+
+.field_block .field input.phone {
+width: 250px;
+font-size: 12px;
+padding: 3px 12px 3px 44px; }
+
+/* The styles for textareas are slightly larger than by default with no CSS */
+.field_block .field textarea {
+width: 300px;
+height: 150px; }
+
+/* This can be applied to any field element to make it wider than the default above */
+.field_block .field input.wide {
+width: 300px; }
+
+/* This can be applied to any field element to make it narrower than the default above */
+.field_block .field input.narrow {
+width: 100px; }
+
+/* A dropdown menu within a field is styled here. */
+.field_block .field select, .field_block .field select option {
+width: 200px; }
+
+/* Required fields are red and bold by default. */
+.required {
+color: #f00;
+font-weight: bold; }
+</style>
